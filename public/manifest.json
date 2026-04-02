@@ -1,0 +1,17 @@
+{
+  "name": "Forge Kinetic",
+  "short_name": "Forge Kinetic",
+  "description": "Premium Kinetic Brutalism workout timer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#131313",
+  "theme_color": "#FF5722",
+  "icons": [
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
